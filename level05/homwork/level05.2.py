@@ -8,12 +8,17 @@ print("First dog's name is" + " " + dog_name1 + ". " + "Second dog's name is" + 
 #
 
 # task 3
+
+# sentence 1
+
 # we declared str type variable and it name name, shose Bob
 name = "Bob"
 
 print(f"my brother's friend is called {name}")
 
 # we use f string to make code easier and smaller to right
+
+# sentence 2
 
 # we declared str type variable and it name name1, shose Nick
 name1 = "Nick"
@@ -22,4 +27,12 @@ number = 1
 # we declared str type variable and it name name2, shose Lui
 name2 = "Lui"
 
-print(f"my friend {name1} has {number} dog. Dog's name is{name2}")
+print(f"my friend {name1} has {number} dog. Dog's name is {name2}")
+
+# sentence 3
+
+num1 = 10
+num2 = 50
+num3 = 100
+
+print(f"the loading is on {num1} ")

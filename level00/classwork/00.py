@@ -1,6 +1,6 @@
 from turtle import*
 shape("turtle")
-width(10)
+width(5)
 
 pencolor("gold")
 begin_fill()
